@@ -5,7 +5,8 @@ mardkown_extensions:
       custom_fences:
         - name: mermaid
           class: mermaid
-          format: !!python/name:pymdownx.superfences.fence_code_format- pymdownx.tabbed
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - pymdownx.tabbed
 nav:
 - Home: index.md
 - Journies: 
