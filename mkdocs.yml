@@ -1,7 +1,8 @@
 site_name: My Docs
 nav:
 - Home: index.md
-- Login Journey: Login.md
+- Journies: 
+  - Login: Login.md
 theme:
   logo: assets/spine.jpg
   name: material
