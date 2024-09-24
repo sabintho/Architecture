@@ -1,8 +1,11 @@
 site_name: My Docs
 mardkown_extensions:
-- codehilite
-- pymdownx.superfences
-- pymdownx.tabbed
+  - codehilite
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format- pymdownx.tabbed
 nav:
 - Home: index.md
 - Journies: 
