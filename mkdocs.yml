@@ -1,5 +1,5 @@
 site_name: My Docs
-mardkown_extensions:
+markdown_extensions:
   - codehilite
   - pymdownx.superfences:
       custom_fences:
