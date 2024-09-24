@@ -1,4 +1,8 @@
 site_name: My Docs
+mardkown_extensions:
+- codehilite
+- pymdownx.superfences
+- pymdownx.tabbed
 nav:
 - Home: index.md
 - Journies: 
