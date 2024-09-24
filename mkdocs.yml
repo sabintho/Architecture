@@ -1,3 +1,4 @@
 site_name: My Docs
-theme: readthedocs
+theme:
   logo: assets/spine.jpg
+  name: readthedocs
