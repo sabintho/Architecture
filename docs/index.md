@@ -1,4 +1,4 @@
-# Welcome to Tom's MkDocs
+# Welcome to Toms MkDocs
 
 For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
